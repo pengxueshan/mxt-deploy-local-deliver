@@ -1,0 +1,37 @@
+{
+  "name": "mxt-deploy-local-deliver",
+  "version": "1.0.0",
+  "description": "mxt deploy http-push plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis-plus",
+    "fis3",
+    "deploy",
+    "mxt"
+  ],
+  "author": {
+    "name": "mountain"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengxueshan/mxt-deploy-local-deliver.git"
+  },
+  "gitHead": "5974351f1ca33810f17cdd27096a046cc05abaa7",
+  "bugs": {
+    "url": "https://github.com/pengxueshan/mxt-deploy-local-deliver/issues"
+  },
+  "homepage": "https://github.com/pengxueshan/mxt-deploy-local-deliver",
+  "maintainers": [
+    {
+      "name": "mountain",
+      "email": "289159468@qq.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
